@@ -1,0 +1,23 @@
+# ninja log v5
+2	9954	1669625769085471716	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/deform_pool_cuda.o	939649baa1485e7
+1	10112	1669625769241471710	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/ROIPool_cuda.o	78cd95e03f465bb7
+1	10326	1669625769453471704	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/SigmoidFocalLoss_cuda.o	6c9b155f8d2de31f
+2	10356	1669625769485471702	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/nms.o	df01995e9a6f55b6
+2	10398	1669625769525471701	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/deform_conv_cuda.o	7a29c8c55edb5f25
+1	10447	1669625769577471699	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/ROIAlign_cuda.o	7a5124709b17a4c8
+2	10883	1669625770013471684	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/deform_pool_kernel_cuda.o	48bb00c48ae0c446
+2	10969	1669625770097471680	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/deform_conv_kernel_cuda.o	5286153731847dc9
+0	15638	1669625774765471356	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cpu/ROIAlign_cpu.o	6827ba44f1be5029
+1	16421	1669625775529471278	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cpu/nms_cpu.o	c823df36b07ff7d7
+1	18951	1669625778077470971	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/vision.o	f69133b9479e3c1e
+4	9626	1669625788609468892	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/nms.o	c22b1ca344b07d3e
+3	9632	1669625788617468890	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/deform_pool_cuda.o	82d1b84574c64491
+2	9914	1669625788897468818	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/ROIPool_cuda.o	eb4ef5a191dfddab
+3	9922	1669625788905468817	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/SigmoidFocalLoss_cuda.o	4a28e2ec1eb4c11c
+3	9959	1669625788917468813	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/deform_conv_cuda.o	b2245f01f3d1f7e5
+2	10038	1669625789021468787	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/ROIAlign_cuda.o	702092dd5034f053
+3	10280	1669625789265468721	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/deform_pool_kernel_cuda.o	adea625d864fe85b
+3	11069	1669625790029468516	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cuda/deform_conv_kernel_cuda.o	4c32337fee0f4e69
+2	14475	1669625793457467505	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cpu/ROIAlign_cpu.o	856854a122a3bfc2
+2	15725	1669625794705467106	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/cpu/nms_cpu.o	dc5e5c315aad9783
+2	17676	1669625796641466450	/root/autodl-tmp/IETrans-SGG.pytorch/build/temp.linux-x86_64-3.8/root/autodl-tmp/IETrans-SGG.pytorch/maskrcnn_benchmark/csrc/vision.o	56479bc1794e0ce3

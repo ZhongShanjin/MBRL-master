@@ -1,0 +1,1 @@
+python inverse_confusion_sgcls.py ../checkpoint/motif-sgcls-1.0/em_confusion.pk ../checkpoint/motif-sgcls-1.0/inverse_confusion.pk

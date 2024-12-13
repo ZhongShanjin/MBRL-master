@@ -1,0 +1,1 @@
+python internal_cut_gqa.py 1
