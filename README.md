@@ -1,4 +1,4 @@
-# Internal and External Data Transfer (IETrans) for Scene Graph Generation
+# Mixup and Balanced Relation Learning (MBRL)
 
 ## Install
 Please refer to [INSTALL](INSTALL.md).

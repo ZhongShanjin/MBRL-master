@@ -58,8 +58,8 @@ python setup.py install --cuda_ext --cpp_ext
 
 # install PyTorch Detection
 cd $INSTALL_DIR
-git clone https://github.com/waxnkw/IETrans-SGG.pytorch
-cd IETrans-SGG.pytorch
+git clone https://github.com/ZhongShanjin/MBRL-master.git
+cd MBRL-master
 
 # the following will install the lib with
 # symbolic links, so that you can modify
